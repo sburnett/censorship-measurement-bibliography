@@ -10,3 +10,7 @@ output/author.html
 output/bibtex.html
 output/date.html
 output/topic.html
+
+# vim
+.*.un~
+.*.swp
